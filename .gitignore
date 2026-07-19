@@ -1,0 +1,6 @@
+/uploads/
+/server
+/server.exe
+*.log
+local.out
+local.err
